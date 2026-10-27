@@ -1,0 +1,18 @@
+{
+  "name": "moatless",
+  "displayName": "Moatless",
+  "version": "1.0.0",
+  "description": "Buy and sell codebases on Moatless: find, buy, clone, and update codebases, or list your own for sale, from your coding agent.",
+  "author": {
+    "name": "Zach Daniel",
+    "url": "https://moatless.store"
+  },
+  "homepage": "https://moatless.store",
+  "repository": "https://github.com/zachdaniel/moatless-plugin",
+  "license": "MIT",
+  "keywords": ["codebases", "marketplace", "starter-kits", "boilerplates", "mcp"],
+  "documentationUrl": "https://moatless.store/guide.md",
+  "supportUrl": "https://moatless.store/contact",
+  "privacyPolicyUrl": "https://moatless.store/privacy",
+  "termsOfServiceUrl": "https://moatless.store/terms"
+}

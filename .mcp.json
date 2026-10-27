@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "moatless": {
+      "type": "http",
+      "url": "https://moatless.store/mcp"
+    }
+  }
+}

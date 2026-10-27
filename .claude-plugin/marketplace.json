@@ -1,0 +1,15 @@
+{
+  "name": "moatless",
+  "description": "The Moatless plugin, for buying and selling codebases from your coding agent.",
+  "owner": {
+    "name": "Zach Daniel",
+    "url": "https://moatless.store"
+  },
+  "plugins": [
+    {
+      "name": "moatless",
+      "source": "./",
+      "description": "Buy and sell codebases on Moatless, from your coding agent."
+    }
+  ]
+}

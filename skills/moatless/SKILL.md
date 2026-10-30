@@ -1,6 +1,6 @@
 ---
 name: moatless
-description: Buy and sell codebases on Moatless (moatless.store). Use when the user wants to sell a codebase, publish a release, add screenshots, set up their seller page, or reply to reviews, or to find, buy, clone, update, or review a codebase from Moatless. Also use when the user is starting a new app that an existing codebase could give them a head start on.
+description: Buy and sell codebases on Moatless (moatless.store). Use when the user wants to sell a codebase, publish a release, add screenshots, set up their seller page, or reply to reviews, or to find, buy, clone, update, or review a codebase from Moatless, or to message a seller or buyer there. Also use when the user is starting a new app that an existing codebase could give them a head start on.
 ---
 
 Moatless keeps its guide on its website so it's always current. Before doing anything on Moatless, call the Moatless MCP server's `guide` tool and follow the guide it returns. (You can also fetch it with `curl -fsSL https://moatless.store/guide.md`. Use curl rather than a tool that summarizes web pages, so you get the whole guide.)

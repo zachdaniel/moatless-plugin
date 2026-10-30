@@ -1,7 +1,7 @@
 {
   "name": "moatless",
   "displayName": "Moatless",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Buy and sell codebases on Moatless: find, buy, clone, and update codebases, or list your own for sale, from your coding agent.",
   "author": {
     "name": "Zach Daniel",
